@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mittz3D
+- 👀 I’m interested in Minecraft Forge modding
+- 🌱 I’m currently learning Java, Javascript, forge API
